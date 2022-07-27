@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  template: `<lottie-animation-view [options]="options" [width]="250" [height]="250"></lottie-animation-view>`,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {

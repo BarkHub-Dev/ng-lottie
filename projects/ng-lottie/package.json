@@ -1,7 +1,13 @@
 {
-  "name": "ng-lottie",
-  "version": "0.0.1",
+  "name": "@barkhub/ng-lottie",
+  "description": "lottie animation view for angular",
+  "author": "CHEN Qing",
+  "version": "1.0.0",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/BarkHub-Dev/ng-lottie.git",
+    "type": "git"
+  },
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0",
